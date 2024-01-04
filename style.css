@@ -1,0 +1,48 @@
+body{
+    background: rgb(77,72,157);
+background: linear-gradient(90deg, rgba(77,72,157,1) 0%, rgba(34,128,213,1) 40%, rgba(28,28,199,1) 100%);
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-weight: 1000;
+}
+
+.smth{
+    font-size: 23px;
+width: 100%;
+margin: 0px;
+font-weight: 500;
+}
+.bottom{
+    font-size: 23px;
+width: 100%;
+margin:0%;
+font-weight: 1000;
+position: relative;
+bottom: -820;
+}
+#status{
+    font-size: 20px;
+    width: 15%;
+    margin: 0px;
+    font-weight: 500;
+}
+.detection{
+    font-size: 20px;
+    width: 18%;
+    margin: 0px;
+    font-weight: 500;
+}
+canvas{
+    border-radius: 10px;
+}
+.back{
+    font-size: 21px;
+    width: 5%;
+    margin: 0px;
+    font-weight: 1000;
+    float: right;
+}
